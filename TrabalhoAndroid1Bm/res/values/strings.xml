@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TrabalhoAndroid1Bm</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nome">TODO</string>
+    <string name="hintNome">TODO</string>
+    <string name="spin">TODO</string>
+
+</resources>
